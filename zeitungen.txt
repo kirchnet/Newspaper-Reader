@@ -1,0 +1,17 @@
+Mainpost, http://www.mainpost.de/storage/rss/rss/topnews.xml
+Mainpost Wurzburg Stadt, http://www.mainpost.de/storage/rss/rss/wuestadt.xml
+Mainpost Wurzburg Land, http://www.mainpost.de/storage/rss/rss/wueland.xml
+F A Z, http://www.faz.net/rss/aktuell/
+Suddeutsche, http://suche.sueddeutsche.de/?output=rss
+Bayern 1, http://www.br.de/radio/bayern1/bayern-eins108~rss.xml
+Bayern 2, http://www.br.de/radio/bayern2/bayern-zwei108~rss.xml
+Bayern 5 Aktuell, http://www.br.de/nachrichten/aktuell-100~rss.xml
+B R Wissen, http://www.br.de/themen/wissen/wissen100~rss.xml
+Studio Franken, http://www.br.de/franken/franken100~rss.xml
+Spiegel Online komplett, http://www.spiegel.de/schlagzeilen/index.rss
+Boersen-zeitung, https://www.boersen-zeitung.de/xml_base/rss_bz.php
+Handelsblatt Finanzen, http://www.handelsblatt.com/contentexport/feed/finanzen
+H R Nachrichten, http://www.hr-online.de/website/export/your_rss.jsp?rubrik=Nac$
+N Z Z, http://www.nzz.ch/feeds/recent.rss
+Lichtschlag eigentümlich frei, http://ef-magazin.de/feed/rss/
+Junge Freiheit, http://jungefreiheit.de/feed/
